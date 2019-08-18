@@ -28,6 +28,6 @@
 
 - **renameAll_65536_msorg_2c.npz**    # gray scale representation : 256 x 256 dimension
 
-Note : Due to the huge model size of VGG and ResNet, you may need to reduce the batch_size on your machine. (Recommended : ~24GB GPU memory)
+Note : Due to the huge model size of VGG and ResNet, you may need to reduce their batch_size on your machine. (Recommended : ~24GB GPU memory)
 
 If you have any questions, please email me ( minkcho@gmail.com ).
