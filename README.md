@@ -1,6 +1,7 @@
 # Mal2d: 2d based Deep Learning Model for Malware Detection using Black and White Binary Image
 
 * Updated: We gather the information of KISA's malware files, our training dataset, through virusTotal.com
+    * filename : kisa_malware_from_virus_total.log.gz
 
 * Updated: We give additional experimental logs. (See additional_log/ )
 
